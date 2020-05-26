@@ -1,1 +1,3 @@
 Marege is working proper for me.How can i solve . I am not getting merge status on git website.
+
+May be this time it will work.
